@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1657913305 source:f:\c_prog\bankdatabase\bankdatabase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"BankDatabase.h"
+
+1657913593 f:\c_prog\bankdatabase\bankdatabase.h
+
+1657912462 source:f:\c_prog\bankdatabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"BankDatabase.h"
+
